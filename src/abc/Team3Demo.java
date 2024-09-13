@@ -18,5 +18,7 @@ public class Team3Demo {
 			*/
 
 		/** Team 2 , if you're going to crash our page, spell it correctly*/
+
+		String name = "Justyna";
 	}
 }

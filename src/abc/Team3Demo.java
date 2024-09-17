@@ -22,8 +22,14 @@ public class Team3Demo {
 		return result;
 	}
 
+
 	public static int addNums(int a, int b, int c) {
 		int result = a + b + c;
+
+		String name = "Justyna";
+		
+		System.out.println("practice");
+		
 
 		return result;
 	}

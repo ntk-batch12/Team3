@@ -27,18 +27,12 @@ public class Team3Demo {
 	public static int addNums(int a, int b, int c) {
 		int result = a + b + c;
 
-		String name = "Justyna";
-		
+		return result;
+	}
+	public static String toLower(String name) {
+		String result = name.toLowerCase();
 
-		System.out.println ("push succesful, changed to Dev branch");
-	
-		
-		
-	
-		
-		System.out.println(name);
-		
-		System.out.println("practice");
+		return result;
 
 		System.out.println ("push succesful, changed to stage");
 

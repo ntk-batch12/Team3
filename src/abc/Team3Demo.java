@@ -29,6 +29,12 @@ public class Team3Demo {
 		
 	
 		
+		System.out.println(name);
+		
+		System.out.println("practice");
+
+		System.out.println ("push succesful, changed to stage");
+		
 
 	
 	}

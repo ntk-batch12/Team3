@@ -7,6 +7,8 @@ public class Team3Demo {
 		int i =24;
 				
 		
+		System.out.println(n1 + i);		
+		
 		System.out.println("Team 3...");
 	
 	System.out.println("Are we going to work yet");
@@ -21,6 +23,7 @@ public class Team3Demo {
 		/** Team 2 */
 
 		String name = "Justyna";
+		System.out.println(name);
 		
 		System.out.println("practice");
 

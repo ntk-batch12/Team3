@@ -5,7 +5,8 @@ public class Team3Demo {
 		
 		String n1 = "john";
 		int i =24;
-				
+		
+		System.out.println(n1 + i);		
 		
 		System.out.println("Team 3...");
 	
@@ -23,6 +24,11 @@ public class Team3Demo {
 		String name = "Justyna";
 		
 		System.out.println ("push succesful, changed to Dev branch");
+		System.out.println(name);
+		
+		
+	
+		
 
 	
 	}

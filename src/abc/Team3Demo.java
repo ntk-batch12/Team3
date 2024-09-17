@@ -23,6 +23,8 @@ public class Team3Demo {
 		String name = "Justyna";
 		
 		System.out.println("practice");
+
+		System.out.println ("push succesful, changed to stage");
 		
 
 	

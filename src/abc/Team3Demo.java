@@ -21,6 +21,8 @@ public class Team3Demo {
 		/** Team 2 */
 
 		String name = "Justyna";
+		
+		System.out.println ("push succesful, changed to Dev branch");
 
 	
 	}
